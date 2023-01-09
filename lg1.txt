@@ -1,0 +1,11 @@
+<html>
+	<head>
+	<title>little game :)</title>
+	</head>
+	<body>
+		<background-image: linear-gradient(#000000, rgb(99,43,47))>
+	
+		<script>
+		</script>
+	</body>
+</html>
